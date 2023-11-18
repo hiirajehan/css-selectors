@@ -1,0 +1,32 @@
+﻿/* font-family */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+ h2 {
+    font-family: Arial, Verdana, sans-serif;}
+
+    .credits {
+        font-family: "Courier New", Courier,
+     monospace;
+    } */
+    /* font-size */
+       /* pixels */
+     /* p{
+        font-size:30px;
+     } */
+     /* parcentag */
+     /* p{
+        font-size: x-large;
+      } */
+      /* default values */
+      {
+         font-size: xx-large;
+      }
+      p{
+        font-size:3em ;
+      }
+      /* FONT-FACE */
+     @font-face {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
